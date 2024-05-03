@@ -1,0 +1,38 @@
+header {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.cabecalho {
+    color:white;
+    margin: center;
+    
+}
+
+.cabecalho-lista-1 {
+    color: white;
+    margin-left: 40px; /* alinhamento a esquerda*/
+    padding: 20px; /*espaçamento vertical*/
+}
+
+body {
+    background-color: rgb(252, 252, 173);
+    color: black;
+    font-family: 'Poppins', 'sans-serif';  
+}
+
+.titulo-2 {
+    color: black;
+    margin: center;
+}
+
+.paragrafo-1 {
+    margin-left: 20px;
+    justify-content: center;
+}
+
+.titulo-3 {
+    color:black;
+    justify-content: center;
+    padding: 50px;
+}
